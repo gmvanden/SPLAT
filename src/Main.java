@@ -1,3 +1,3 @@
 public class Main {
-    //lol
+    //lol i hate this so much
 }
